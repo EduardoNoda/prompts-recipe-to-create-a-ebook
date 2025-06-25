@@ -25,12 +25,12 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/EduardoNoda/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/EduardoNoda/prompts-recipe-to-create-a-ebook/blob/main/output/Guia-Definitivo-Para-A-Montagem-Perfeita.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](copilot.microsoft.com/)
+- [Copilot](copilot.microsoft.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -41,8 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de montagem de computadores, o ebook é do nicho de pessoas que buscam economizar na hora de comprar uma máquina desktop, o título deve ser épico e curto, me liste 5 variações de títulos                                                        |
-| conteúdo | preciso da sua ajuda para criar um eBook com o tema - montagem de computadores. Eu quero abordar uns negocio tipo, componentes de um computador, a ideia de compatibilidade, sobre gargalo, a importancia de ter essas informações, essas coisas, e por ultimo realmente a montagem.
-Com este prompt eu quero apenas de informar o que eu quero fazer, inicialmente eu preciso apenas que voce me dê ideias para os capitulos desse eBook |
+| conteúdo | preciso da sua ajuda para criar um eBook com o tema - montagem de computadores. Eu quero abordar uns negocio tipo, componentes de um computador, a ideia de compatibilidade, sobre gargalo, a importancia de ter essas informações, essas coisas, e por ultimo realmente a montagem. Com este prompt eu quero apenas de informar o que eu quero fazer, inicialmente eu preciso apenas que voce me dê ideias para os capitulos desse eBook |
 
 
 Microsoft Copilot：
