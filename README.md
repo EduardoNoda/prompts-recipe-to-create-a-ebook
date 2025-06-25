@@ -41,8 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de montagem de computadores, o ebook é do nicho de pessoas que buscam economizar na hora de comprar uma máquina desktop, o título deve ser épico e curto, me liste 5 variações de títulos                                                        |
-| conteúdo | preciso da sua ajuda para criar um eBook com o tema - montagem de computadores. Eu quero abordar uns negocio tipo, componentes de um computador, a ideia de compatibilidade, sobre gargalo, a importancia de ter essas informações, essas coisas, e por ultimo realmente a montagem.
-Com este prompt eu quero apenas de informar o que eu quero fazer, inicialmente eu preciso apenas que voce me dê ideias para os capitulos desse eBook |
+| conteúdo | preciso da sua ajuda para criar um eBook com o tema - montagem de computadores. Eu quero abordar uns negocio tipo, componentes de um computador, a ideia de compatibilidade, sobre gargalo, a importancia de ter essas informações, essas coisas, e por ultimo realmente a montagem. Com este prompt eu quero apenas de informar o que eu quero fazer, inicialmente eu preciso apenas que voce me dê ideias para os capitulos desse eBook |
 
 
 Microsoft Copilot：
